@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+C:\Users\Joseph Franklin\eclipse-workspace\BrowserLaunch\.metadata\.plugins\org.eclipse.jdt.core
+2541224718.index
+2681444029.index
+1865797976.index
